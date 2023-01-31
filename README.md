@@ -1,5 +1,5 @@
 # HelloWorldGoServer
-GO + Docker + unit tests- For David Test Test TEst
+GO + Docker + unit tests- For David
 
 
 ## Running the app locally
